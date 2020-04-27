@@ -1,0 +1,3 @@
+name: codepipeline
+title: Codepipeline Test Suite
+summary: The expected codepipeline service should be created

@@ -10,7 +10,7 @@ work if you don't provision it.
 
 ```shell script
 export AWS_PROFILE=your_aws_profile_here
-export AWS_REGION=eu-west-1
+export AWS_REGION=aws_region
 ```
 
 ## Run
